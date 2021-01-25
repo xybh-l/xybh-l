@@ -1,5 +1,5 @@
 <h2>Hi there! I'm xybh👋</h2>
-```一名苦逼的Java程序员,欢迎大佬前来! ```
+> 一名苦逼的Java程序员,欢迎大佬前来! 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <table>
@@ -23,11 +23,11 @@
 <br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=green)
+- 💻 &nbsp;![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)  &nbsp; ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=green)
 
-- 🛢 &nbsp;![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis&logoColor=red)
+- 🛢 &nbsp;![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp; ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis&logoColor=red)
 
-- ⚙️ &nbsp;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- ⚙️ &nbsp;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 <br/>
 
