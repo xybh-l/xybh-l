@@ -18,7 +18,7 @@ if __name__ == '__main__':
     with open('template.md', 'r', encoding='utf-8') as f:
         template = f.read()
 
-    entries = fetch_blog_entries()[:5]
+    entries = fetch_blog_entries()[:7]
     entries_md = "\n".join(
         ["<li> <a href='{url}' target='_blank'>{title}</a> - {published}</li>".format(**entry) for entry in entries]
     )
