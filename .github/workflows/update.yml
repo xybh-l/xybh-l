@@ -1,0 +1,39 @@
+# This is a basic workflow to help you get started with Actions
+
+name: update README.md
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: SetUp Python
+        uses: actions/setup-python@v2.2.1
+        
+      - name: Install feedparser
+        run: |
+          pip3 install feedparser
+      
+      - name: Update README
+        run: |
+          python3 updateREADME.py
+          
+      - name: pull And Push
+        run: |-
+          git diff
+          git config --global user.email "a1353433900@gmail.com"
+          git config --global user.name "xybh-l"
+          git pull
+          git add .
+          git commit -m "自动更新博客内容"
+          git push
+          
+          
+        
